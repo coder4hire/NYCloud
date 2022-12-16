@@ -2,6 +2,8 @@
 09195106324||10
 629004113921||4
 ATTINY13-20PU||8
+BatteryController||6
 IRF7301||8
 Pad||1
 pushbutton||2
+StepUpConverter||4
