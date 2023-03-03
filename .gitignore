@@ -4,3 +4,4 @@
 /avrdude.exe
 /avrdude.conf
 ~*
+*.componentinfo.xml

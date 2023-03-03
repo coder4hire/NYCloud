@@ -1,0 +1,1 @@
+avrdude -Cavrdude.conf -v -pt13 -cusbasp-clone -Uflash:w:Release\NYCloud.hex:i 
